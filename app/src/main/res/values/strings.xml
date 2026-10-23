@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlarmX</string>
+    <string name="channel_firing_name">Active alarm</string>
+    <string name="channel_firing_desc">Full-screen alerts while an alarm is ringing.</string>
+    <string name="channel_status_name">Alarm status</string>
+    <string name="channel_status_desc">Quiet status information.</string>
+    <string name="notification_firing_text">Alarm is ringing</string>
+    <string name="notification_snooze_text">Snooze %1$d</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_snooze">Snooze</string>
+</resources>

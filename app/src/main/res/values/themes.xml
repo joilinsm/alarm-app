@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.AlarmX" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">#070B14</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.AlarmX.Ringing" parent="Theme.AlarmX">
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

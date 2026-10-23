@@ -1,0 +1,48 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local config and secrets
+local.properties
+keystore.properties
+*.jks
+*.keystore
+*.pem
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Android / Java
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Test / lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Misc
+*.log
+*.swp
+.kotlin/
+_wrapper_tmp/
+release-staging/
+*.token
+.env
+.env.*
